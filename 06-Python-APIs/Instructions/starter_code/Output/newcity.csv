@@ -1,0 +1,593 @@
+City,Temperature,Latitude
+dikson,14.29,73.51
+hermanus,67.39,-34.42
+mataura,57.99,-46.19
+bambous virieux,77.49,-20.34
+taolanaro,NAN,NAN
+rikitea,77.04,-23.12
+lorengau,82.27,-2.02
+cabo san lucas,73.78,22.89
+tambura,70.95,5.6
+thompson,24.8,55.74
+ushuaia,42.8,-54.8
+busselton,69.96,-33.65
+sioux lookout,35.28,50.1
+chokurdakh,27.21,70.63
+ketchikan,47.5,55.34
+cestas,59.47,44.74
+avarua,84.2,-21.21
+karratha,81.37,-20.74
+coquimbo,64.4,-29.95
+upernavik,20.88,72.79
+east london,74.39,-33.02
+cape town,64.2,-33.93
+barentsburg,NAN,NAN
+koupela,90.68,12.18
+hilo,74.7,19.73
+iqaluit,23,63.75
+yellowknife,17.73,62.46
+the valley,84.49,18.22
+puerto ayora,81.57,-0.74
+vaini,78.8,-21.2
+beringovskiy,11.26,63.05
+codrington,53.02,-38.27
+khulo,44.73,41.64
+meulaboh,80.24,4.14
+markova,36.86,48.68
+tabiauea,NAN,NAN
+igarka,35.67,67.47
+kapaa,77.14,22.08
+georgetown,81.16,5.41
+katsuura,48.02,35.13
+butaritari,83.98,3.07
+walajabad,NAN,NAN
+bethel,51.53,41.37
+yatou,44.31,37.15
+cherskiy,13.78,68.75
+kodiak,41,57.79
+chuy,65.95,-33.7
+arraial do cabo,71.6,-22.97
+airai,60.13,-8.93
+tuatapere,57.99,-46.13
+port elizabeth,62.6,-33.92
+buzmeyin,53.6,38.05
+bonavista,36,48.65
+hithadhoo,84.56,-0.6
+touros,82.4,-5.2
+haines junction,33.39,60.75
+belaya gora,22.91,68.53
+ambilobe,73.67,-13.2
+bela,82.74,25.93
+hobart,49.55,-42.88
+santo angelo,73,-28.3
+yaring,81.23,6.87
+kununurra,77,-15.77
+parabel,30.43,58.7
+razdolinsk,27.25,58.42
+coos bay,56.82,43.37
+keshabpur,74.93,22.92
+mitsamiouli,83.77,-11.38
+waddan,67.15,29.16
+carnarvon,75.2,-24.87
+tasiilaq,30.2,65.61
+gejiu,52.39,23.31
+bismil,48.2,37.85
+albany,45.18,42.6
+rocha,65.37,-34.48
+jahanabad,78.8,25.22
+mys shmidta,NAN,NAN
+saint-philippe,68.54,-21.36
+viedma,62.69,-40.81
+college,40.19,64.86
+havelock,62.37,34.88
+new norfolk,49.08,-42.78
+seinajoki,26.31,62.79
+leningradskiy,12.81,69.38
+bengkulu,78.55,-3.8
+illoqqortoormiut,NAN,NAN
+namatanai,82.02,-3.67
+bredasdorp,71.33,-34.53
+sao joao da barra,71.6,-21.64
+necochea,66.99,-38.55
+souillac,77.47,-20.52
+amderma,NAN,NAN
+punta arenas,48.09,-53.15
+launceston,44.96,-41.45
+atuona,82.8,-9.8
+san pedro,81.46,14.35
+nikolskoye,29.14,59.7
+linhares,74.93,-19.39
+henties bay,73,-22.12
+longyearbyen,-5.8,78.22
+fortuna,55.92,40.6
+nizhneyansk,NAN,NAN
+nova olimpia,81.66,-14.8
+aksha,40.55,50.28
+nouadhibou,69.13,20.93
+acari,79,-15.43
+manokwari,80.29,-0.87
+hualmay,77.05,-11.1
+jamestown,45.46,42.1
+ribeira grande,62.6,38.52
+port alfred,68,-33.59
+talakan,34.65,50.32
+quatre cocos,77.54,-20.21
+vila franca do campo,57.2,37.72
+grand gaube,77.65,-20.01
+ancud,53.6,-41.87
+vao,76.19,-22.67
+lichtenburg,61.72,-26.15
+kaitangata,56.61,-46.28
+kamenskoye,NAN,NAN
+marrakesh,64.4,31.63
+manggar,80.38,-2.88
+bluff,57.99,-46.6
+ambovombe,71.92,-25.17
+rio gallegos,51.8,-51.62
+ballina,60.96,-28.87
+qaanaaq,14.05,77.48
+norman wells,28.4,65.28
+vaitupu,NAN,NAN
+tumannyy,NAN,NAN
+owando,74.93,-0.48
+inuvik,19.4,68.35
+maun,71.6,-19.98
+yalkhoy-mokhk,48.2,43.11
+kuruman,66.7,-27.45
+matay,65.19,28.42
+samarai,79.29,-10.62
+auki,82.22,-8.77
+ketou,81.45,7.36
+tuktoyaktuk,3.2,69.45
+bella vista,64.58,36.43
+inirida,86.95,3.87
+narsaq,44.6,60.92
+mnogovershinnyy,27.88,53.94
+hamilton,61,39.18
+severo-kurilsk,29.23,50.68
+miyako,41.11,39.64
+sedalia,64.71,38.7
+japura,72.84,-0.32
+kavieng,83.55,-2.57
+alta floresta,77.16,-9.88
+paita,81.25,-5.09
+lima,78.8,-12.04
+klyuchi,38.61,52.27
+palabuhanratu,NAN,NAN
+lagos,84.2,6.58
+karaul,NAN,NAN
+matara,76.69,5.95
+pisco,73.08,-13.7
+constitucion,60.35,-35.33
+san cristobal,93.2,7.77
+bhaderwah,54.9,32.98
+laguna,65.61,38.42
+solnechnyy,32.99,50.72
+hami,54.34,42.8
+sitka,47.08,57.05
+kahului,75.29,20.89
+castro,60.94,-24.79
+lancaster,54.37,40.25
+nara,46.33,34.69
+tornio,26.6,65.85
+san jose,61.93,37.34
+vengerovo,32.43,55.68
+antalaha,76.77,-14.9
+wonthaggi,52.99,-38.6
+colares,57.38,38.8
+eldorado,71.2,-23.79
+saint george,62.8,37.1
+toora-khem,31.55,52.47
+preston,50.14,53.77
+barrow,8.6,71.29
+ayan,30.15,56.45
+mrirt,NAN,NAN
+sorvag,NAN,NAN
+verkhnechusovskiye gorodki,36.81,58.17
+luderitz,57.2,-26.65
+dalbandin,76.89,28.89
+tezu,69.82,27.92
+varhaug,44.11,58.61
+swellendam,71.6,-34.02
+saskylakh,0.82,71.92
+udachnyy,24.8,66.42
+mongoumba,71.15,3.64
+aljezur,62.01,37.32
+solsvik,NAN,NAN
+sola,80.82,-13.88
+palmer,47.19,42.16
+mayo,60.84,38.89
+rungata,NAN,NAN
+sentyabrskiy,NAN,NAN
+manga,90.79,11.66
+lekhaina,NAN,NAN
+talnakh,35.6,69.49
+la palma,66.65,33.85
+victoria,65.12,22.29
+torbay,36.86,47.67
+porbandar,80.2,21.64
+neyvo-shaytanskiy,37.38,57.73
+kiama,53.02,-34.68
+samana,86,19.21
+vardo,27.61,70.37
+candolim,82.4,15.52
+punta alta,71.4,-38.88
+sijunjung,73.8,-0.69
+fort nelson,35.6,58.81
+prince rupert,51.8,54.32
+beyla,75.42,8.68
+port augusta,50.18,-32.5
+salinas,60.8,36.68
+lompoc,64.78,34.64
+te anau,55.45,-45.42
+antofagasta,68,-23.65
+ilulissat,30.2,69.22
+kirakira,82.42,-10.45
+ucluelet,56.84,48.93
+banda aceh,80.22,5.56
+ternate,78.85,0.8
+chukhloma,27.28,58.75
+belushya guba,NAN,NAN
+huarmey,79.03,-10.07
+mildura,42.44,-34.2
+treinta y tres,66.24,-33.23
+portales,74.84,34.19
+mar del plata,66.69,-38
+samusu,NAN,NAN
+kavaratti,84.34,10.57
+berlevag,25.02,70.86
+aykhal,24.8,66
+khatanga,-1.05,71.97
+ossora,15.48,59.24
+mount gambier,53.6,-37.83
+dolbeau,NAN,NAN
+komsomolskiy,53.6,40.43
+provideniya,31.89,64.38
+znamensk,40.91,48.58
+skerries,50.79,53.58
+arambagh,75.34,22.88
+zdvinsk,30.97,54.7
+patos de minas,70.9,-18.58
+grindavik,39.11,63.84
+jiujiang,46.51,29.73
+popondetta,77.4,-8.75
+lagoa,61.66,39.05
+cururupu,80.26,-1.83
+jumla,44.73,29.27
+fereydun kenar,46.4,36.69
+olafsvik,37.24,64.89
+bijar,39.94,35.87
+burica,NAN,NAN
+kourou,82.4,5.16
+crateus,77,-5.18
+saldanha,63.93,-33.01
+hofn,37.26,64.25
+edinburg,51.46,55.95
+qaqortoq,44.6,60.72
+alzamay,27.97,55.56
+lata,55.06,40.16
+sai buri,79.68,6.7
+mangrol,80.29,21.12
+teya,23.14,60.38
+jutai,82.47,-5.18
+gouda,52.99,52.02
+kaeo,62.98,-35.1
+taoudenni,89.58,22.68
+edgewater,77.02,28.99
+najran,82.4,17.49
+severodvinsk,23,64.56
+vila velha,75.61,-20.33
+ponta do sol,58.55,32.67
+akureyri,33.8,65.68
+kenai,35.73,60.55
+say,95,13.1
+gornopravdinsk,33.84,60.05
+grand river south east,NAN,NAN
+vila,54.75,42.03
+rio grande,69.35,-32.03
+buchanan,80.04,5.88
+whitehorse,35.67,60.72
+corinto,57.45,37.94
+muromtsevo,34.02,56.37
+tairua,63,-37.02
+warwick,49.84,41.7
+byron bay,62.49,-28.65
+sao filipe,75.61,14.9
+boksitogorsk,27.57,59.47
+yunhe,42.64,34.08
+adre,79.75,13.47
+maragogi,81.55,-9.01
+natal,82.4,-5.79
+magui,NAN,NAN
+port lincoln,56.75,-34.73
+dingle,76.33,11
+kashi,60.8,39.45
+honiara,80.6,-9.43
+high level,30.2,58.52
+santa cruz del norte,90.75,23.15
+altay,43.41,47.87
+buala,82.81,-8.14
+lebu,57.85,-37.62
+havoysund,28.4,71
+palauig,79.18,15.44
+tucuman,78.8,-26.82
+shimoda,46.85,34.67
+dmytrivka,47.08,45.97
+port-gentil,78.13,-0.72
+gold coast,65.86,-28
+niquero,88.18,20.04
+anstruther,51.42,56.22
+marcona,NAN,NAN
+poum,79.09,-20.23
+hakui,41.02,36.88
+tateyama,47.61,34.98
+botou,48.09,38.07
+nanortalik,37.58,60.14
+campana,70.32,-34.17
+nacala,75.81,-14.54
+krasnyy klyuch,37.2,55.39
+derzhavinsk,42.91,51.1
+bay roberts,36.82,47.6
+salamiyah,50.72,35.01
+fairmount,44.04,43.05
+mahebourg,77.4,-20.41
+oussouye,76.96,12.48
+bilibino,10,68.05
+atambua,72.64,-9.11
+marawi,66.16,8
+sistranda,41,63.73
+bandarbeyla,81.72,9.49
+chapais,28.4,49.78
+charters towers,71.4,-20.1
+vangaindrano,70.7,-23.35
+attawapiskat,NAN,NAN
+nome,28.4,64.5
+vostok,24.33,46.49
+garmsar,58.06,35.22
+bin qirdan,62.47,33.14
+elko,60.6,41
+synya,14.68,65.37
+ocos,93.09,14.51
+petropavlovsk-kamchatskiy,28.4,53.05
+lekoni,76.78,-1.58
+buraydah,69.8,26.33
+comodoro rivadavia,62.6,-45.87
+teguise,66.2,29.06
+marzuq,73.2,14.4
+ashland,53.55,40.82
+obo,72.03,5.4
+chapleau,42.8,47.84
+buluang,75.96,13.31
+uncia,57.34,-18.47
+aklavik,19.4,68.22
+san benito abad,94.42,8.93
+isiro,69.08,2.77
+brae,46.4,60.4
+clarence town,54.81,-32.58
+santa ines,79.32,-3.67
+pangnirtung,26.82,66.15
+hobyo,83.07,5.35
+nhulunbuy,82.04,-12.23
+guanare,94.28,9.04
+fare,83.52,-16.7
+pevek,6.39,69.7
+nimbahera,80.73,24.62
+port hedland,73.4,-20.32
+lazaro cardenas,85.42,17.96
+clyde river,8.6,70.47
+chicama,80.15,-7.84
+maniitsoq,38.53,65.42
+vysokogornyy,23.65,50.12
+tsihombe,NAN,NAN
+cidreira,67.53,-30.18
+husavik,33.8,66.04
+batemans bay,36.14,-35.72
+ornskoldsvik,32.79,63.29
+halalo,NAN,NAN
+tamiahua,84,21.27
+sao gabriel da cachoeira,78.87,-0.13
+gorontalo,72.37,0.54
+faanui,82.6,-16.48
+sao joao batista,69.91,-27.28
+fairview,53.76,40.81
+darhan,46.44,49.49
+barbar,NAN,NAN
+san jeronimo,62.08,-11.95
+nuuk,35.29,64.18
+mayskiy,39.58,47.69
+avera,73.67,33.19
+flin flon,21.2,54.77
+zhigansk,24.91,66.77
+yarkovo,37.87,57.4
+broome,45.28,42.25
+padang,78.58,-0.95
+taft,61.03,31.75
+wanning,74.97,18.8
+mattru,80.26,7.62
+santa catalina,73.4,9.33
+kosonsoy,53.6,41.26
+portland,58.19,45.52
+sargatskoye,41.31,55.61
+meadow lake,67.24,34.8
+wanaka,52.97,-44.7
+ceske velenice,44.62,48.77
+ust-omchug,18.48,61.15
+hasaki,45.03,35.73
+nyimba,66.2,-14.56
+tawkar,NAN,NAN
+tselinnoye,31.66,53.08
+rosario oeste,80.17,-14.84
+eyl,82.8,7.98
+kandi,85.86,11.13
+mocambique,NAN,NAN
+esperance,69.8,-33.87
+tiksi,13.08,71.69
+eureka,56.73,40.8
+svetlogorsk,35.01,52.63
+fairbanks,40.35,64.84
+manzanillo,91.62,20.34
+kaupanger,35.01,61.18
+vaasa,27.43,63.1
+perth,70.9,-31.93
+rock springs,53.6,41.59
+verkhoyansk,28.53,67.54
+coihaique,49.33,-45.58
+mulege,69.17,26.88
+faya,65.3,18.39
+khandyga,25.45,62.67
+sao felix do xingu,79.12,-6.64
+saint anthony,59.56,45.02
+nelson bay,55.4,-32.72
+margate,55.22,51.38
+pemangkat,76.6,1.17
+coahuayana,86,18.73
+khani,42.8,41.96
+ust-kulom,21.67,61.69
+ahipara,65.52,-35.17
+opuwo,72.28,-18.06
+joshimath,48.76,30.57
+aswan,66.38,24.09
+kardailovo,44.01,51.54
+saint-louis,95,16.33
+kathmandu,57.2,27.72
+ikwiriri,74.62,-7.96
+kawalu,72.54,-7.38
+cairns,72.43,-16.92
+elk city,74.79,35.41
+gorno-chuyskiy,NAN,NAN
+yashkul,44.56,46.17
+rodna,28,47.42
+salalah,82.4,17.02
+acapulco,84.2,16.86
+canberra,38.39,-35.28
+mizan teferi,64.63,6.98
+moose factory,35.6,51.26
+port blair,82.06,11.67
+bargal,NAN,NAN
+rakiv lis,37.11,51.62
+bastia,57.4,42.67
+mtwara,79.32,-10.27
+adrar,85.59,20.5
+magistralnyy,33.04,56.17
+sungairaya,76.57,0.7
+toppenish,60.96,46.38
+middlebury,41.61,44.02
+marsh harbour,74.23,26.54
+tessalit,84.04,20.2
+tiarei,87.8,-17.53
+umzimvubu,NAN,NAN
+lerwick,46.4,60.15
+axim,81.23,4.87
+santa fe,74.8,-31.63
+astana,42.8,51.18
+pagman,NAN,NAN
+qasigiannguit,30.2,68.82
+kruisfontein,62.08,-34
+hokitika,56.34,-42.72
+utiroa,NAN,NAN
+emerald,68,-23.53
+milkovo,23.92,54.72
+sozimskiy,30.47,59.74
+koslan,20.91,63.46
+hienghene,77.56,-20.68
+road town,82.67,18.42
+huron,54.45,41.15
+liku,72.5,-0.73
+namibe,77.59,-15.2
+emba,42.19,48.83
+orotukan,20.5,62.27
+visnes,44.35,59.36
+sept-iles,42.8,50.2
+arrecife,66.2,28.96
+neftcala,50.74,39.37
+belyy yar,24.8,53.6
+revda,41,56.8
+klaksvik,42.8,62.23
+katokhi,NAN,NAN
+magadan,17.98,59.57
+kautokeino,18.99,69.01
+le port,68.94,-20.94
+geraldton,66.63,-28.77
+sabha,72.25,27.04
+kichha,76.64,28.92
+valparaiso,58.69,-33.04
+santa cruz cabralia,80.6,-16.28
+barroualie,NAN,NAN
+bubaque,78.62,11.28
+yaan,78.37,7.38
+nanaimo,57.99,49.17
+palaia fokaia,59.63,37.72
+buritis,75.42,-15.62
+cockburn town,80.69,21.46
+lakatoro,75.2,-16.1
+zorritos,79.5,-3.68
+saint-joseph,68.79,-21.37
+smithers,44.6,54.78
+port macquarie,54.97,-31.43
+morris,53.53,40.83
+kailua,80.19,21.4
+kiunga,73.89,-6.12
+fukue,55.02,32.69
+tselina,43.63,46.53
+saquarema,71.13,-22.92
+stornoway,43.3,58.21
+pirenopolis,73.94,-15.85
+cap malheureux,77.65,-19.98
+manoel urbano,85.96,-8.84
+campo verde,78.8,-20.42
+florida,80.37,28.75
+nalut,68.76,30.33
+mailsi,80.91,29.8
+horsham,55.87,51.06
+cabedelo,82.4,-6.98
+kattivakkam,82.72,13.22
+wahran,NAN,NAN
+port hardy,51.8,50.7
+kitimat,50,54.05
+naze,66.2,28.37
+rawlins,55.69,41.79
+elizabeth city,62.98,36.29
+sur,78.96,22.57
+tual,83.46,-5.67
+bulgan,40.48,48.81
+bereda,54,43.27
+sandpoint,41.4,48.28
+salvador,86.67,13.83
+cauquenes,69.64,-35.97
+ust-nera,17.33,64.57
+honiton,54.41,50.8
+paamiut,35.24,61.99
+bardejov,36.18,49.29
+yakeshi,38.66,49.28
+shingu,50.92,33.73
+bowen,71.83,-20.02
+maceio,80.6,-9.67
+saleaula,NAN,NAN
+saurimo,65.75,-9.66
+olinda,84.2,-8.01
+khor,32.14,47.89
+amga,29.66,60.9
+lamu,81.28,-2.27
+yumen,45.43,40.28
+yulara,57.2,-25.24
+dunedin,55,-45.87
+hun,67.77,29.13
+brockville,42.31,44.58
+mecca,67.93,21.43
+salinopolis,82.08,-0.61
+birao,87.15,10.28
+doctor pedro p. pena,NAN,NAN
+rodos,57.51,36.44
+belmonte,80.6,-15.86
+columbus,55.96,39.96
+terrytown,74.8,29.91
+tiznit,59.23,29.58
+vyazemskiy,32,47.54
+jurm,55.62,36.86
+meyungs,NAN,NAN
+riyadh,75.2,24.69
+karachev,33.57,53.12
+yusva,NAN,NAN
+salym,34.66,60.06
+sembakung,73.54,3.82
+ozernovskiy,29.19,51.5
